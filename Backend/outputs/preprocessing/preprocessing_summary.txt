@@ -1,0 +1,7 @@
+ECG Image Preprocessing Audit & Summary
+==================================================
+Header Crop Ratio      : 15.0% top height removed
+Target Input Resolution: 224x224 RGB
+Enhancements Applied   : Sharpening (Waveform Definition) + Contrast (1.1x)
+
+Sample Comparison Outputs:

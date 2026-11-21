@@ -1,0 +1,13 @@
+MODEL 3 FINAL EVALUATION SUMMARY (CLEAN RETRAIN)
+======================================================================
+Evaluated: 2026-09-22 23:24:53
+
+Model 3 + SVM:
+  Test Accuracy   : 93.44%
+  Macro F1-Score  : 75.63%
+  Weighted F1     : 91.38%
+
+Model 3 + Random Forest:
+  Test Accuracy   : 90.16%
+  Macro F1-Score  : 73.17%
+  Weighted F1     : 88.20%
